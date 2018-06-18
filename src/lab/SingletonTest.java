@@ -14,5 +14,7 @@ public class SingletonTest {
 		
 		System.out.println(s);
 		System.out.println(s2);
+	
+		System.out.println("20180618");
 	}
 }
